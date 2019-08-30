@@ -86,6 +86,6 @@ public class IDSMobileNew {
 
     @AfterClass
  public void quit(){
-     //  driver.quit();
+       driver.quit();
     }
 }
